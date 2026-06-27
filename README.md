@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1550-three-consecutive-odds](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
