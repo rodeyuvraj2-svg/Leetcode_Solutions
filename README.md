@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -36,8 +37,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
