@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
@@ -51,5 +53,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
