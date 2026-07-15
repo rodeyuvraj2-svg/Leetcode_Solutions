@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
 ## Hash Table
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
