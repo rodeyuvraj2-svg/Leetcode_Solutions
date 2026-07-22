@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0018-4sum/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0844-backspace-string-compare](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -125,4 +127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
