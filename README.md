@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0283-move-zeroes](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
