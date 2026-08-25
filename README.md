@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
